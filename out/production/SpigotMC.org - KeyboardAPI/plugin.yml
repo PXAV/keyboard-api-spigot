@@ -1,0 +1,4 @@
+name: KeyboardAPI
+version: 1.0
+author: PXAV
+main: de.pxav.keyboard.KeyboardPlugin
